@@ -1,0 +1,19 @@
+[
+{
+  "modid": "jamod",
+  "name": "JA mod",
+  "description": "The official JAmod by JDJG Inc. Offical!",
+  "version": "1.0.2",
+  "credits": "Created using mod maker MCreator",
+  "logoFile": "/logo.png",
+  "mcversion": "1.11.2",
+  "url": "https://mcreator.pylo.co/about/",
+  "updateUrl": "",
+  "authorList": [ "JDJG Inc. Offical" , "MCreator" ],
+  "parent": "",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+  ]
+}
+]
